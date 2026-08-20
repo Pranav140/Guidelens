@@ -234,11 +234,10 @@ It demonstrates that **real-time, privacy-preserving AI** can be practical on-de
 
 ---
 
-## 🧑‍💻 Author & Repository
+## 🧑‍💻 Author 
 
-**Developer:** Sri Krishna Nurandu  
-**Repository:** [github.com/N-SriKrishna/GuideLensApp](https://github.com/N-SriKrishna/GuideLensApp)  
-**License:** [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)  
+**Developer:** Pranav Garg 
+
 
 ---
 
